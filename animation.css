@@ -1,0 +1,95 @@
+.header-p::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    animation: typing 20s infinite ;
+    -webkit-animation: typing 20s infinite ;
+}
+
+
+@keyframes typing {
+    0%{content: '|';}
+    1.2658%{content: 'D|';}
+    2.5316%{content: 'De|';}
+    3.974%{content: 'Des|';}
+    5.0632%{content: 'Desi|';}
+    6.329%{content: 'Desig|';}
+    7.5948%{content: 'Design|';}
+    8.8606%{content: 'Designe|';}
+    10.1264%{content: 'Designer|';}
+
+    12.658%{content: "Designe|";}
+    13.9238%{content: "Design|";}
+    15.1896%{content: "Desig|";}
+    16.4554%{content: "Desi|";}
+    17.7212%{content: "Des|";}
+    18.987%{content: "De|";}
+
+    21.5186%{content: "Dev|";}
+    22.7844%{content: "Deve|";}
+    24.0502%{content: "Devel|";}
+    25.316%{content: "Develo|";}
+    26.5818%{content: "Develop|";}
+    27.8476%{content: "Develope|";}
+    29.1134%{content: "Developer|";}
+
+    31.645%{content: "Develope|";}
+    32.9108%{content: "Develop|";}
+    34.1766%{content: "Develo|";}
+    35.4424%{content: "Devel|";}
+    36.7082%{content: "Deve|";}
+    37.974%{content: "Dev|";}
+    39.2398%{content: "De|";}
+    40.5056%{content: "D|";}
+    41.7714%{content: "|";}
+
+
+    44.303%{content: "F|";}
+    45.5688%{content: "Fe|";}
+    46.8346%{content: "Fer|";}
+    48.1004%{content: "Fere|";}
+    49.3662%{content: "Ferel|";}
+    50.632%{content: "Ferela|";}
+    51.8978%{content: "Ferelan|";}
+    53.1636%{content: "Ferelanc|";}
+    54.4294%{content: "Ferelance|";}
+    55.6952%{content: "Ferelancer|";}
+
+
+    58.2268%{content: "Ferelance|";}
+    59.4926%{content: "Ferelanc|";}
+    60.7584%{content: "Ferelan|";}
+    62.0242%{content: "Ferela|";}
+    63.29%{content: "Ferel|";}
+    64.5558%{content: "Fere|";}
+    65.8216%{content: "Fer|";}
+    67.0874%{content: "Fe|";}
+    68.3532%{content: "F|";}
+    69.619%{content: "|";}
+
+
+    72.1506%{content: "P|";}
+    73.4164%{content: "Po|";}
+    74.6822%{content: "Pot|";}
+    75.948%{content: "Poto|";}
+    77.2138%{content: "Potog|";}
+    78.4796%{content: "Potogr|";}
+    79.7454%{content: "Potogra|";}
+    81.0112%{content: "Potograp|";}
+    82.277%{content: "Potograph|";}
+    83.5428%{content: "Potographe|";}
+    84.8086%{content: "Potographer|";}
+
+
+    87.3402%{content: "Potographe|";}
+    88.606%{content: "Potograph|";}
+    89.8718%{content: "Potograp|";}
+    91.1376%{content: "Potogra|";}
+    92.4034%{content: "Potogr|";}
+    93.6692%{content: "Potog|";}
+    94.935%{content: "Poto|";}
+    96.2008%{content: "Pot|";}
+    97.4666%{content: "Po|";}
+    98.7324%{content: "P|";}
+    100%{content: "|";}
+}
